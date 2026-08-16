@@ -50,8 +50,8 @@ Proyek ini mengikuti pola arsitektur berlapis untuk memudahkan pemeliharaan:
 
 1. **Clone repositori**:
    ```bash
-   git clone https://github.com/username/my_password_manager.git
-   cd my_password_manager
+   git clone https://github.com/username/flutter-password-manager.git
+   cd flutter-password-manager
    ```
 
 2. **Instal dependensi**:
